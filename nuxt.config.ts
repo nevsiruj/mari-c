@@ -1,6 +1,13 @@
-// nuxt.config.ts
+// https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
-  css: ['@/assets/css/tailwind.css'],
   compatibilityDate: '2024-04-03',
   devtools: { enabled: false },
+  css: ['~/assets/css/main.css'],
+  buildModules: ['@nuxt/postcss8'],
+  postcss: {
+    plugins: {
+      tailwindcss: {},
+      autoprefixer: {},
+    },
+  },
 });
