@@ -94,9 +94,10 @@
             <p class="text-lg text-purple-700 mb-4">
               Una vez que hayas realizado el pago, por favor ingresa al grupo de WhatsApp para recibir más detalles sobre el curso.
             </p>
+           <!-- Botón de WhatsApp mejorado para responsive -->
             <a
               href="https://chat.whatsapp.com/IRCNKMPZyIqLR88S9tpfqy"
-              class="bg-green-500 text-white py-3 px-6 rounded-lg font-medium hover:bg-green-400"
+              class="bg-green-500 text-white py-3 px-6 rounded-lg font-medium hover:bg-green-400 w-full md:w-auto block text-center"
               target="_blank"
               >Unirme al Grupo de WhatsApp</a
             >
