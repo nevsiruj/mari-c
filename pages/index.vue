@@ -7,17 +7,18 @@
       class="bg-cover bg-center h-screen flex items-center justify-center text-center text-white"
       style="background-image: url('https://source.unsplash.com/1600x900/?meditation')"
     >
-      <div class="bg-yellow-500 bg-opacity-70 p-12 rounded">
-        <h2 class="text-4xl font-bold mb-4">Curso de Terapias Holisticas</h2>
-        <p class="text-lg mb-8">
-          Únete a mi curso de Armonización de Chakras, Reiki Angelical y Registros Akashicos. Transforma tu vida y acompaña a otras personas.
-        </p>
-        <a
-          href="#course"
-          class="bg-pink-400 text-white py-2 px-6 rounded hover:bg-pink-300"
-          >Descubre Más</a
-        >
-      </div>
+      <div class="bg-gradient-to-r from-pink-300 via-pink-400 to-pink-500 bg-opacity-70 p-12 rounded">
+  <h2 class="text-4xl font-bold mb-4">Curso de Terapias Holísticas</h2>
+  <p class="text-lg mb-8">
+    Únete a mi curso de Armonización de Chakras, Reiki Angelical y Registros Akashicos. Transforma tu vida y acompaña a otras personas.
+  </p>
+  <a
+    href="#course"
+    class="bg-purple-400 text-white py-2 px-6 rounded hover:bg-purple-300"
+    >Descubre Más</a
+  >
+</div>
+
     </section>
 
      <!-- Video Section -->
