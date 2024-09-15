@@ -4,17 +4,17 @@
     <section
       id="home"
       class="bg-cover bg-center h-screen flex items-center justify-center text-center text-white"
-      style="background-image: url('https://source.unsplash.com/1600x900/?yoga')"
+      style="background-image: url('https://source.unsplash.com/1600x900/?meditation')"
     >
       <div class="bg-purple-800 bg-opacity-70 p-12 rounded">
-        <h2 class="text-4xl font-bold mb-4">Encuentra la Paz Interior</h2>
+        <h2 class="text-4xl font-bold mb-4">Curso Especial de Armonización</h2>
         <p class="text-lg mb-8">
-          Únete a nuestras clases de yoga y mejora tu bienestar físico y mental.
+          Únete a nuestro curso de Armonización de Chakras, Reiki Angelical y Registros Akashicos. Transforma tu vida con prácticas profundas y efectivas.
         </p>
         <a
-          href="#contact"
+          href="#course"
           class="bg-pink-400 text-white py-2 px-6 rounded hover:bg-pink-300"
-          >Contáctame</a
+          >Descubre Más</a
         >
       </div>
     </section>
@@ -28,36 +28,6 @@
           experiencia. Mi misión es ayudarte a encontrar equilibrio y bienestar
           a través de la práctica del yoga.
         </p>
-      </div>
-    </section>
-
-    <!-- Classes Section -->
-    <section id="classes" class="py-12 bg-white">
-      <div class="container mx-auto text-center">
-        <h2 class="text-3xl font-bold mb-4 text-purple-800">Clases</h2>
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          <div class="bg-white p-6 rounded shadow-lg">
-            <img src="https://source.unsplash.com/800x600/?yoga,vinyasa" alt="Clase de Vinyasa" class="w-full h-40 object-cover rounded mb-4" />
-            <h3 class="text-xl font-bold mb-2 text-purple-800">Clase de Vinyasa</h3>
-            <p class="text-gray-700">
-              Una práctica dinámica que fluye con la respiración.
-            </p>
-          </div>
-          <div class="bg-white p-6 rounded shadow-lg">
-            <img src="https://source.unsplash.com/800x600/?yoga,hatha" alt="Clase de Hatha" class="w-full h-40 object-cover rounded mb-4" />
-            <h3 class="text-xl font-bold mb-2 text-purple-800">Clase de Hatha</h3>
-            <p class="text-gray-700">
-              Enfoque en posturas y técnicas de respiración.
-            </p>
-          </div>
-          <div class="bg-white p-6 rounded shadow-lg">
-            <img src="https://source.unsplash.com/800x600/?meditation" alt="Clase de Meditación" class="w-full h-40 object-cover rounded mb-4" />
-            <h3 class="text-xl font-bold mb-2 text-purple-800">Clase de Meditación</h3>
-            <p class="text-gray-700">
-              Sesiones guiadas para encontrar calma y claridad.
-            </p>
-          </div>
-        </div>
       </div>
     </section>
 
