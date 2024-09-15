@@ -19,6 +19,25 @@
       </div>
     </section>
 
+     <!-- Video Section -->
+    <section id="video" class="py-12 bg-purple-100">
+      <div class="container mx-auto text-center">
+        <h2 class="text-3xl font-bold mb-4 text-purple-800">Mira Nuestro Video</h2>
+        <div class="flex justify-center">
+          <iframe
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/qXion5FVs5A"
+            title="Video del Curso"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+            class="rounded"
+          ></iframe>
+        </div>
+      </div>
+    </section>
+
     <!-- About Section -->
     <section id="about" class="py-12 bg-purple-100">
       <div class="container mx-auto text-center">
