@@ -99,16 +99,16 @@
           en contactarme.
         </p>
         <a
-          href="mailto:info@yoga.com"
-          class="bg-pink-400 text-white py-2 px-6 rounded hover:bg-pink-300"
-          >Enviar Correo</a
+          href="wa.me/+5493544438308"
+          class="bg-green-400 text-white py-2 px-6 rounded hover:bg-pink-300"
+          >Enviar WhatsApp</a
         >
       </div>
     </section>
 
     <!-- Footer -->
     <footer class="bg-purple-800 text-white py-4 text-center">
-      <p>&copy; 2024 Yoga con [Nombre]. Todos los derechos reservados.</p>
+      <p>&copy; 2024 Mariel Cuevas. Todos los derechos reservados.</p>
     </footer>
   </div>
 </template>
