@@ -10,7 +10,7 @@
       <div class="bg-yellow-500 bg-opacity-70 p-12 rounded">
         <h2 class="text-4xl font-bold mb-4">Curso Especial de Armonización</h2>
         <p class="text-lg mb-8">
-          Únete a nuestro curso de Armonización de Chakras, Reiki Angelical y Registros Akashicos. Transforma tu vida y acompaña otras personas.
+          Únete a mi curso de Armonización de Chakras, Reiki Angelical y Registros Akashicos. Transforma tu vida y acompaña otras personas.
         </p>
         <a
           href="#course"
