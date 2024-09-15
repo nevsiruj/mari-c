@@ -45,7 +45,7 @@
         <h2 class="text-3xl font-bold mb-4 text-purple-800">Sobre Mí</h2>
         <p class="text-lg text-purple-700">
           Soy Mariel Cuevas, apasionada Profesora de Yoga, Terapeuta en Flores de Bach, Consteladora Familiar, 
-          Master Reiki Usui y Angelical, Lectora de Registro Akashicos y Coach Ontologica. Mi misión es acompañarte en procesos de transformacion para lograr tu equilibrio
+          Master Reiki Usui y Angelical, Lectora de Registro Akashicos y Coach Ontológica. Mi misión es acompañarte en procesos de transformación para lograr tu equilibrio
           y bienestar por medio de diferentes técnicas y terapias.
         </p>
       </div>
