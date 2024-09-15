@@ -8,7 +8,7 @@
       style="background-image: url('https://source.unsplash.com/1600x900/?meditation')"
     >
       <div class="bg-yellow-500 bg-opacity-70 p-12 rounded">
-        <h2 class="text-4xl font-bold mb-4">Curso Especial de Armonización</h2>
+        <h2 class="text-4xl font-bold mb-4">Curso de Terapias Holisticas</h2>
         <p class="text-lg mb-8">
           Únete a mi curso de Armonización de Chakras, Reiki Angelical y Registros Akashicos. Transforma tu vida y acompaña otras personas.
         </p>
@@ -44,9 +44,9 @@
       <div class="container mx-auto text-center">
         <h2 class="text-3xl font-bold mb-4 text-purple-800">Sobre Mí</h2>
         <p class="text-lg text-purple-700">
-          Soy [Nombre], una apasionada instructora de yoga con [X] años de
-          experiencia. Mi misión es ayudarte a encontrar equilibrio y bienestar
-          a través de la práctica del yoga.
+          Soy Mariel Cuevas, apasionada profesora de Yoga, terapeuta en Flores de Bach, Consteladora Familiar, 
+          Master Reiki Usui y Angelical, Lectora de Registro Akashicos y Coach Ontologica. Mi misión es acompañarete en procesos de transformacion para lograr tu equilibrio
+          y bienestar por medio de diferentes técnicas y terapias.
         </p>
       </div>
     </section>
