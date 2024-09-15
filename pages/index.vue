@@ -89,6 +89,19 @@
           <p class="text-purple-700 mt-4">Transferencia a CBU 1430001713015184340017 BRUBANK<br>
           Alias: cuerda.muelle.tiempo<br>
           Cuevas Mariel Ermelinda</p>
+            <!-- Aviso de WhatsApp -->
+          <div class="mt-8 bg-purple-50 p-4 rounded shadow-lg">
+            <p class="text-lg text-purple-700 mb-4">
+              Una vez que hayas realizado el pago, por favor ingresa al grupo de WhatsApp para recibir más detalles sobre el curso.
+            </p>
+            <a
+              href="https://chat.whatsapp.com/IRCNKMPZyIqLR88S9tpfqy"
+              class="bg-green-500 text-white py-3 px-6 rounded-lg font-medium hover:bg-green-400"
+              target="_blank"
+              >Unirme al Grupo de WhatsApp</a
+            >
+          </div>
+
         </div>
       </div>
     </section>
