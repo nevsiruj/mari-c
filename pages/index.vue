@@ -55,22 +55,9 @@
     <section id="course" class="py-12 bg-purple-100">
       <div class="container mx-auto text-center">
         <h2 class="text-3xl font-bold mb-4 text-purple-800">Curso Especial</h2>
-        <div class="bg-white p-6 rounded shadow-lg">
-          <img src="https://source.unsplash.com/800x600/?course" alt="Curso" class="w-full h-64 object-cover rounded mb-4" />
-          <h3 class="text-xl font-bold mb-2 text-purple-800">Armonización de Chakras, Reiki Angelical y Registros Akashicos</h3>
-          <p class="text-lg mb-4 text-purple-700">
-            <strong>Modalidad por Zoom:</strong> 4 Encuentros<br>
-            <strong>Fechas:</strong> Jueves 10, 17, 24 y 31 de Octubre<br>
-            <strong>Duración:</strong> 2 Horas<br>
-            <strong>Horario:</strong> 20 hs<br>
-            <strong>Material:</strong> Se envía material en PDF<br>
-            <strong>Valor Total:</strong> $24,900 (pesos argentinos) / U$d 30,00 (pago por Western Union)
-          </p>
-          <a href="https://mpago.la/1JJUKba" class="bg-pink-400 text-white py-2 px-6 rounded hover:bg-pink-300" target="_blank">Link de Pago</a>
-          <p class="text-purple-700 mt-4">Transferencia a CBU 1430001713015184340017 BRUBANK<br>
-          Alias: cuerda.muelle.tiempo<br>
-          Cuevas Mariel Ermelinda</p>
-        </div>
+                  <h3 class="text-xl font-bold mb-2 text-purple-800">Armonización de Chakras, Reiki Angelical y Registros Akashicos</h3>
+
+     
         <h3 class="text-xl font-bold mt-8 mb-4 text-purple-800">Temario del Curso</h3>
         <div class="bg-white p-6 rounded shadow-lg mb-6">
           <h4 class="text-lg font-bold mb-2 text-purple-800">Clase 1: Armonización de Chakras</h4>
@@ -87,6 +74,21 @@
           <p class="text-gray-700">Nivel I: Lectura de Registros Akashicos, qué es el Akasha, cómo abrir nuestros propios registros, práctica en vivo.<br>
           Nivel II y III: Maestría en Lectura de Registros Akashicos, cómo abrir registros a otras personas, hogares, comercios, y sanación kármica. Incluye audio de meditación para conectar con el símbolo individual de cada uno.</p>
           <img src="https://source.unsplash.com/800x600/?akashic-records" alt="Clase de Registros Akashicos" class="w-full h-40 object-cover rounded mt-4" />
+        </div>
+           <div class="bg-white p-6 rounded shadow-lg">
+          <img src="https://source.unsplash.com/800x600/?course" alt="Curso" class="w-full h-64 object-cover rounded mb-4" />
+          <p class="text-lg mb-4 text-purple-700">
+            <strong>Modalidad por Zoom:</strong> 4 Encuentros<br>
+            <strong>Fechas:</strong> Jueves 10, 17, 24 y 31 de Octubre<br>
+            <strong>Duración:</strong> 2 Horas<br>
+            <strong>Horario:</strong> 20 hs<br>
+            <strong>Material:</strong> Se envía material en PDF<br>
+            <strong>Valor Total:</strong> $24,900 (pesos argentinos) / U$d 30,00 (pago por Western Union)
+          </p>
+          <a href="https://mpago.la/1JJUKba" class="bg-pink-400 text-white py-2 px-6 rounded hover:bg-pink-300" target="_blank">Link de Pago</a>
+          <p class="text-purple-700 mt-4">Transferencia a CBU 1430001713015184340017 BRUBANK<br>
+          Alias: cuerda.muelle.tiempo<br>
+          Cuevas Mariel Ermelinda</p>
         </div>
       </div>
     </section>
