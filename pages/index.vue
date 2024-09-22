@@ -90,6 +90,7 @@
           <p class="text-gray-700">Nivel I: Lectura de Registros Akashicos, qué es el Akasha, cómo abrir nuestros propios registros, práctica en vivo.<br>
           Nivel II y III: Maestría en Lectura de Registros Akashicos, cómo abrir registros a otras personas, hogares, comercios, y sanación kármica. Incluye audio de meditación para conectar con el símbolo individual de cada uno.</p>
           <img src="https://source.unsplash.com/800x600/?akashic-records" alt="Clase de Registros Akashicos" class="w-full h-40 object-cover rounded mt-4" />
+          <iframe src="https://drive.google.com/file/d/13LcF7j0-BYj6mRQ0UqQxDN4dNpax6KVi/preview" width="640" height="480" allow="autoplay"></iframe>
         </div>
            <div class="bg-white p-6 rounded shadow-lg">
           <img src="https://source.unsplash.com/800x600/?course" alt="Curso" class="w-full h-64 object-cover rounded mb-4" />
