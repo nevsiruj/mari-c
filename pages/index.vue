@@ -3,23 +3,35 @@
   <div class="font-sans antialiased">
     <!-- Hero Section -->
     <section
-      id="home"
-      class="bg-cover bg-center h-screen flex items-center justify-center text-center text-white"
-      style="background-image: url('https://source.unsplash.com/1600x900/?meditation')"
+  id="home"
+  class="bg-cover bg-center h-screen flex items-center justify-center text-center text-white"
+  style="background-image: url('https://source.unsplash.com/1600x900/?meditation')"
+>
+  <div class="bg-gradient-to-r from-pink-300 via-pink-400 to-pink-500 bg-opacity-70 p-12 rounded">
+    <h2 class="text-4xl font-bold mb-4">Curso de Terapias Holísticas</h2>
+    <p class="text-lg mb-8">
+      Únete a mi curso de Armonización de Chakras, Reiki Angelical y Registros Akashicos. Transforma tu vida y acompaña a otras personas.
+    </p>
+    <a
+      href="#course"
+      class="bg-purple-400 text-white py-2 px-6 rounded hover:bg-purple-300"
+      >Descubre Más</a
     >
-      <div class="bg-gradient-to-r from-pink-300 via-pink-400 to-pink-500 bg-opacity-70 p-12 rounded">
-  <h2 class="text-4xl font-bold mb-4">Curso de Terapias Holísticas</h2>
-  <p class="text-lg mb-8">
-    Únete a mi curso de Armonización de Chakras, Reiki Angelical y Registros Akashicos. Transforma tu vida y acompaña a otras personas.
-  </p>
-  <a
-    href="#course"
-    class="bg-purple-400 text-white py-2 px-6 rounded hover:bg-purple-300"
-    >Descubre Más</a
-  >
-</div>
+    <!-- Agregar el video aquí -->
+    <div class="mt-8">
+      <iframe 
+        src="https://drive.google.com/file/d/16JzALek7DM-gLTtaAmBljNLvdETI-tsN/preview" 
+        width="560" 
+        height="315" 
+        frameborder="0" 
+        allow="autoplay; encrypted-media" 
+        allowfullscreen>
+      </iframe>
+    </div>
+  </div>
+</section>
 
-    </section>
+
 
      <!-- Video Section -->
     <section id="video" class="py-12 bg-purple-100">
@@ -68,7 +80,8 @@
         <div class="bg-white p-6 rounded shadow-lg mb-6">
           <h4 class="text-lg font-bold mb-2 text-purple-800">Clase 2: Reiki Angelical</h4>
           <p class="text-gray-700">Sintonización en Reiki Angelical y Maestría. Este curso te permitirá dar Reiki y sintonizar a otras personas.</p>
-          <img src="https://source.unsplash.com/800x600/?reiki" alt="Clase de Reiki Angelical" class="w-full h-40 object-cover rounded mt-4" />
+          <img src="https://drive.google.com/file/d/1aGnFxn64OWv1a8ZoUeZFv0UswNSeT4a6/preview" alt="Clase de Reiki Angelical" class="w-full h-40 object-cover rounded mt-4" />
+          <iframe src="https://drive.google.com/file/d/1aGnFxn64OWv1a8ZoUeZFv0UswNSeT4a6/preview" width="640" height="480" allow="autoplay"></iframe>
         </div>
         <div class="bg-white p-6 rounded shadow-lg">
           <h4 class="text-lg font-bold mb-2 text-purple-800">Clases 3 y 4: Registros Akashicos</h4>
