@@ -111,8 +111,10 @@
 
         </div>
         <div class="bg-white p-6 rounded shadow-lg">
-          <img src="https://source.unsplash.com/800x600/?course" alt="Curso"
-            class="w-full h-64 object-cover rounded mb-4" />
+
+          <!-- <img src="https://source.unsplash.com/800x600/?course" alt="Curso"
+            class="w-full h-64 object-cover rounded mb-4" /> -->
+
           <p class="text-lg mb-4 text-purple-700">
             <strong>Modalidad por Zoom:</strong> 4 Encuentros<br>
             <strong>Fechas:</strong> Jueves 10, 17, 24 y 31 de Octubre<br>
