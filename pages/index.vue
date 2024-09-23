@@ -64,14 +64,19 @@
 
 
         <h3 class="text-xl font-bold mt-8 mb-4 text-purple-800">Temario del Curso</h3>
-        <div class="bg-white p-6 rounded shadow-lg mb-6">
-          <h4 class="text-lg font-bold mb-2 text-purple-800">Clase 1: Armonización de Chakras</h4>
-          <p class="text-gray-700">Qué son, la importancia de la armonización de los chakras en nuestra vida. Diferentes
-            técnicas de armonización. Incluye audio de meditación para armonizar.</p>
-          <iframe src="https://drive.google.com/file/d/1-H_QaEYgrVLFv61oVfbTauxljrUJnTnf/preview" width="800"
-            height="450" class="w-full h-auto object-cover rounded mt-4" allow="autoplay">
-          </iframe>
-        </div>
+        <div class="bg-white p-6 rounded-lg shadow-lg mb-6">
+    <h4 class="text-xl font-bold mb-4 text-purple-800 text-center">Clase 1: Armonización de Chakras</h4>
+    <p class="text-gray-700 text-center mb-4">
+        Qué son, la importancia de la armonización de los chakras en nuestra vida. Diferentes técnicas de armonización.
+        Incluye audio de meditación para armonizar.
+    </p>
+    <div class="flex justify-center items-center">
+        <iframe src="https://drive.google.com/file/d/1-H_QaEYgrVLFv61oVfbTauxljrUJnTnf/preview" width="800" height="450" 
+            class="w-full max-w-screen-md h-auto object-cover rounded-lg shadow-md" allow="autoplay">
+        </iframe>
+    </div>
+</div>
+
         <div class="bg-white p-6 rounded shadow-lg mb-6">
           <h4 class="text-lg font-bold mb-2 text-purple-800">Clase 2: Reiki Angelical</h4>
           <p class="text-gray-700">Sintonización en Reiki Angelical y Maestría. Este curso te permitirá dar Reiki y
