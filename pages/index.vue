@@ -81,9 +81,11 @@
         <div class="bg-white p-6 rounded shadow-lg mb-6">
           <h4 class="text-lg font-bold mb-2 text-purple-800">Clase 2: Reiki Angelical</h4>
           <p class="text-gray-700">Sintonización en Reiki Angelical y Maestría. Este curso te permitirá dar Reiki y sintonizar a otras personas.</p>
-          <img src="https://drive.google.com/file/d/1aGnFxn64OWv1a8ZoUeZFv0UswNSeT4a6/preview" alt="Clase de Reiki Angelical" class="w-full h-40 object-cover rounded mt-4" />
+          <!-- <img src="https://drive.google.com/file/d/1aGnFxn64OWv1a8ZoUeZFv0UswNSeT4a6/preview" alt="Clase de Reiki Angelical" class="w-full h-40 object-cover rounded mt-4" />
         
-          <iframe src="https://drive.google.com/file/d/1aGnFxn64OWv1a8ZoUeZFv0UswNSeT4a6/preview" width="640" height="480" allow="autoplay"></iframe>
+          <iframe src="https://drive.google.com/file/d/1aGnFxn64OWv1a8ZoUeZFv0UswNSeT4a6/preview" width="800" height="600" allow="autoplay"></iframe> -->
+          <iframe src="https://drive.google.com/file/d/1aGnFxn64OWv1a8ZoUeZFv0UswNSeT4a6/preview" width="800" height="600" class="w-full h-40 object-cover rounded mt-4" allow="autoplay"></iframe>
+
         </div>
         <div class="bg-white p-6 rounded shadow-lg">
           <h4 class="text-lg font-bold mb-2 text-purple-800">Clases 3 y 4: Registros Akashicos</h4>
