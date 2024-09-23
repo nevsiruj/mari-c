@@ -108,10 +108,8 @@
               height="480" allow="autoplay" style="border: none;">
             </iframe>
           </div>
-
         </div>
         <div class="bg-white p-6 rounded shadow-lg">
-
           <!-- <img src="https://source.unsplash.com/800x600/?course" alt="Curso"
             class="w-full h-64 object-cover rounded mb-4" /> -->
 
