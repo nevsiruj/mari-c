@@ -76,7 +76,13 @@
         <div class="bg-white p-6 rounded shadow-lg mb-6">
           <h4 class="text-lg font-bold mb-2 text-purple-800">Clase 1: Armonización de Chakras</h4>
           <p class="text-gray-700">Qué son, la importancia de la armonización de los chakras en nuestra vida. Diferentes técnicas de armonización. Incluye audio de meditación para armonizar.</p>
-          <iframe src="https://drive.google.com/file/d/1-H_QaEYgrVLFv61oVfbTauxljrUJnTnf/preview" width="800" height="600" class="w-full h-40 object-cover rounded mt-4" allow="autoplay"></iframe>
+          <iframe 
+  src="https://drive.google.com/file/d/1-H_QaEYgrVLFv61oVfbTauxljrUJnTnf/preview" 
+  width="800" 
+  height="450" 
+  class="w-full h-auto object-cover rounded mt-4" 
+  allow="autoplay">
+</iframe>
      </div>
         <div class="bg-white p-6 rounded shadow-lg mb-6">
           <h4 class="text-lg font-bold mb-2 text-purple-800">Clase 2: Reiki Angelical</h4>
