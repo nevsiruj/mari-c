@@ -71,10 +71,12 @@
             armonización.
             Incluye audio de meditación para armonizar.
           </p>
-          <div class="flex justify-center items-center">
-            <iframe src="https://drive.google.com/file/d/1-H_QaEYgrVLFv61oVfbTauxljrUJnTnf/preview" width="800"
-              height="450" class="w-full max-w-screen-md h-auto object-cover rounded-lg shadow-md" allow="autoplay">
+          <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+
+            <iframe src="https://drive.google.com/file/d/1-H_QaEYgrVLFv61oVfbTauxljrUJnTnf/preview" width="640"
+              height="480" allow="autoplay" style="border: none;">
             </iframe>
+
           </div>
         </div>
 
@@ -85,8 +87,12 @@
           <!-- <img src="https://drive.google.com/file/d/1aGnFxn64OWv1a8ZoUeZFv0UswNSeT4a6/preview" alt="Clase de Reiki Angelical" class="w-full h-40 object-cover rounded mt-4" />
         
           <iframe src="https://drive.google.com/file/d/1aGnFxn64OWv1a8ZoUeZFv0UswNSeT4a6/preview" width="800" height="600" allow="autoplay"></iframe> -->
-          <iframe src="https://drive.google.com/file/d/1aGnFxn64OWv1a8ZoUeZFv0UswNSeT4a6/preview" width="800"
-            height="600" class="w-full h-40 object-cover rounded mt-4" allow="autoplay"></iframe>
+          <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+
+            <iframe src="https://drive.google.com/file/d/1aGnFxn64OWv1a8ZoUeZFv0UswNSeT4a6/preview" width="640"
+              height="480" allow="autoplay" style="border: none;">
+            </iframe>
+          </div>
 
         </div>
         <div class="bg-white p-6 rounded shadow-lg">
@@ -96,10 +102,13 @@
             Nivel II y III: Maestría en Lectura de Registros Akashicos, cómo abrir registros a otras personas, hogares,
             comercios, y sanación kármica. Incluye audio de meditación para conectar con el símbolo individual de cada
             uno.</p>
-          <img src="https://source.unsplash.com/800x600/?akashic-records" alt="Clase de Registros Akashicos"
-            class="w-full h-40 object-cover rounded mt-4" />
-          <iframe src="https://drive.google.com/file/d/13LcF7j0-BYj6mRQ0UqQxDN4dNpax6KVi/preview" width="640"
-            height="480" allow="autoplay"></iframe>
+
+          <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+            <iframe src="https://drive.google.com/file/d/13LcF7j0-BYj6mRQ0UqQxDN4dNpax6KVi/preview" width="640"
+              height="480" allow="autoplay" style="border: none;">
+            </iframe>
+          </div>
+
         </div>
         <div class="bg-white p-6 rounded shadow-lg">
           <img src="https://source.unsplash.com/800x600/?course" alt="Curso"
