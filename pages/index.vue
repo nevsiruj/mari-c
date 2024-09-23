@@ -18,7 +18,7 @@
       >Descubre Más</a
     >
     <!-- Agregar el video aquí -->
-    <div class="mt-8">
+    <!-- <div class="mt-8">
       <iframe 
         src="https://drive.google.com/file/d/16JzALek7DM-gLTtaAmBljNLvdETI-tsN/preview" 
         width="560" 
@@ -27,7 +27,8 @@
         allow="autoplay; encrypted-media" 
         allowfullscreen>
       </iframe>
-    </div>
+    </div> -->
+
   </div>
 </section>
 
@@ -41,7 +42,7 @@
           <iframe
             width="560"
             height="315"
-            src="https://www.youtube.com/embed/qXion5FVs5A"
+            src="https://drive.google.com/file/d/16JzALek7DM-gLTtaAmBljNLvdETI-tsN/preview"
             title="Video del Curso"
             frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
