@@ -142,6 +142,22 @@
       </div>
     </section>
 
+    <!-- Sección Bonus -->
+    <div class="bg-purple-100 p-6 rounded-lg shadow-lg mb-6">
+      <h4 class="text-xl font-bold mb-4 text-purple-900 text-center">Bonus: Puntos de Gracias para Registros Akáshicos
+      </h4>
+      <p class="text-gray-800 text-center mb-4">
+        Descubre los puntos de gratitud y cómo conectarte profundamente con los Registros Akáshicos para tu
+        crecimiento espiritual. Incluye técnicas prácticas y un audio guiado especial para conectar con tu
+        ser interior.
+      </p>
+      <div class="flex justify-center items-center">
+        <!-- <iframe src="https://drive.google.com/file/d/tu-audio-bonus/preview" width="800" height="450"
+            class="w-full max-w-screen-md h-auto object-cover rounded-lg shadow-md" allow="autoplay">
+        </iframe> -->
+      </div>
+    </div>
+
     <!-- Contact Section -->
     <section id="contact" class="py-12 bg-purple-100">
       <div class="container mx-auto text-center">
@@ -155,10 +171,31 @@
       </div>
     </section>
 
+
+
     <!-- Footer -->
-    <footer class="bg-purple-800 text-white py-4 text-center">
+    <footer class="bg-purple-800 text-white py-6 text-center">
       <p>&copy; 2024 Mariel Cuevas. Todos los derechos reservados.</p>
+      <div class="flex justify-center mt-4 space-x-6">
+        <!-- Enlace a Instagram -->
+        <a href="https://www.instagram.com/armoniaterapias_mc" target="_blank" class="text-white hover:text-purple-300">
+          <svg class="w-6 h-6 inline-block" fill="currentColor" viewBox="0 0 24 24">
+            <path
+              d="M12 2.2c3.2 0 3.6 0 4.8.1 1.1.1 1.8.2 2.3.4.6.2 1.1.5 1.6 1s.7 1 1 1.6c.2.5.3 1.2.4 2.3.1 1.2.1 1.6.1 4.8s0 3.6-.1 4.8c-.1 1.1-.2 1.8-.4 2.3-.2.6-.5 1.1-1 1.6s-1 1-1.6 1c-.5.2-1.2.3-2.3.4-1.2.1-1.6.1-4.8.1s-3.6 0-4.8-.1c-1.1-.1-1.8-.2-2.3-.4-.6-.2-1.1-.5-1.6-1s-1-1-1-1.6c-.2-.5-.3-1.2-.4-2.3-.1-1.2-.1-1.6-.1-4.8s0-3.6.1-4.8c.1-1.1.2-1.8.4-2.3.2-.6.5-1.1 1-1.6s1-1 1.6-1c.5-.2 1.2-.3 2.3-.4C8.4 2.2 8.8 2.2 12 2.2m0-2.2C8.7 0 8.3 0 7.1.1 6 .1 5 .2 4.2.4c-.9.3-1.7.7-2.4 1.4-.7.7-1.1 1.5-1.4 2.4-.2.8-.3 1.8-.4 3S0 8.7 0 12s0 3.3.1 4.8c.1 1.2.2 2.2.4 3 .3.9.7 1.7 1.4 2.4.7.7 1.5 1.1 2.4 1.4.8.2 1.8.3 3 .4 1.5.1 1.9.1 4.8.1s3.3 0 4.8-.1c1.2-.1 2.2-.2 3-.4.9-.3 1.7-.7 2.4-1.4.7-.7 1.1-1.5 1.4-2.4.2-.8.3-1.8.4-3 .1-1.5.1-1.9.1-4.8s0-3.3-.1-4.8c-.1-1.2-.2-2.2-.4-3-.3-.9-.7-1.7-1.4-2.4-.7-.7-1.5-1.1-2.4-1.4-.8-.2-1.8-.3-3-.4-1.5-.1-1.9-.1-4.8-.1zM12 5.9c-3.4 0-6.1 2.7-6.1 6.1s2.7 6.1 6.1 6.1 6.1-2.7 6.1-6.1-2.7-6.1-6.1-6.1zm0 10c-2.1 0-3.9-1.7-3.9-3.9 0-2.1 1.7-3.9 3.9-3.9s3.9 1.7 3.9 3.9c0 2.1-1.7 3.9-3.9 3.9zm6.4-10.5c-.8 0-1.4.6-1.4 1.4s.6 1.4 1.4 1.4 1.4-.6 1.4-1.4-.6-1.4-1.4-1.4z" />
+          </svg>
+        </a>
+
+        <!-- Enlace a Facebook -->
+        <a href="https://www.facebook.com/marielcuevasyoga?mibextid=ZbWKwL" target="_blank"
+          class="text-white hover:text-purple-300">
+          <svg class="w-6 h-6 inline-block" fill="currentColor" viewBox="0 0 24 24">
+            <path
+              d="M22.675 0H1.325C.593 0 0 .593 0 1.325v21.351C0 23.407.593 24 1.325 24h11.495v-9.294H9.847v-3.622h2.973V8.413c0-2.946 1.798-4.555 4.428-4.555 1.258 0 2.338.093 2.654.135v3.078h-1.82c-1.429 0-1.704.679-1.704 1.674v2.193h3.406l-.444 3.622h-2.962V24h5.808c.73 0 1.324-.593 1.324-1.324V1.325C24 .593 23.407 0 22.675 0z" />
+          </svg>
+        </a>
+      </div>
     </footer>
+
   </div>
 </template>
 
